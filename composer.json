@@ -22,11 +22,13 @@
         "drupal/core-project-message": "^9.3",
         "drupal/core-recommended": "^9.3",
         "drupal/devel": "^4.1",
+        "drupal/drupal_slider": "2.0",
         "drupal/field_load_more": "2.0",
         "drupal/flexslider": "^2.0",
         "drupal/modal_page": "^4.1",
         "drupal/paragraphs": "^1.13",
         "drupal/pathauto": "^1.9",
+        "drupal/views_bootstrap": "4.3",
         "drupal/views_slideshow": "4.8",
         "drupal/webform": "^6.1"
     },
